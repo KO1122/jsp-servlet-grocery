@@ -6,6 +6,10 @@ This project is a simple grocery store app built using JSP, Servlets, and JDBC. 
 
 ## Screenshots 
 
+<img src="https://github.com/KO1122/jsp-servlet-grocery/blob/main/screenshots/main_page.png" width=30%>
+<img src="https://github.com/KO1122/jsp-servlet-grocery/blob/main/screenshots/add_item_page.png" width=30%>
+<img src="https://github.com/KO1122/jsp-servlet-grocery/blob/main/screenshots/edit_item_page.png" width=30%>
+
 ## Getting Started
 
 ### Dependencies
